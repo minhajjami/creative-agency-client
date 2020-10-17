@@ -1,0 +1,11 @@
+.works-bg{
+    background-color: #111430;
+}
+.slick-dots li button{
+    background-color:  #242A65;
+    border-radius:10px;
+}
+li.slick-active button{
+     background-color:  #FBD062;
+     border-radius:10px;
+}

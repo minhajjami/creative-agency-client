@@ -1,0 +1,20 @@
+.dashboard-nav li{
+    margin-top: 2em;
+    padding-left: 2em;
+    cursor: pointer;
+}
+.dashboard-nav span{
+    padding-left: 2%;
+}
+.dashboard-nav li:hover{
+   color: rgba(86, 216, 86, 0.699);
+}
+.sidebar svg{
+    margin-right: 5px;
+}
+.dashboard-container{
+    background-color:rgba(191, 233, 247, 0.24);
+    border-radius: 10px;
+    height: 100%;
+    padding:5%
+}

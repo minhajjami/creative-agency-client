@@ -1,0 +1,10 @@
+@media (prefers-reduced-motion: no-preference) {
+    .service-logo:hover {
+      animation: App-logo-spin infinite 1s linear;
+    }
+  }
+
+  .service-card:hover{
+    border-radius: 10px;
+    box-shadow: 15px 10px 30px 10px lightgrey;
+}

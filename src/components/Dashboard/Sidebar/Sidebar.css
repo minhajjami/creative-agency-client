@@ -1,0 +1,15 @@
+.dashboard-nav li{
+    margin-top: 2em;
+    padding-left: 2em;
+    cursor: pointer;
+}
+.dashboard-nav span{
+    padding-left: 2%;
+}
+.dashboard-link{
+    text-decoration: none;
+    color: black;
+}
+.dashboard-link:hover{
+    color: rgba(86, 216, 86, 0.699);
+}
