@@ -14,7 +14,7 @@ Visit [https://creative-agency-d9cfb.web.app] Live Website
 10. Express.js
 11. MongoDB
 
-## Feature
+## Features
 
 1. Customers can place orders for various services.
 2. Customers can monitor the status of their services ordered.
