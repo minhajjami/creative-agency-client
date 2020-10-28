@@ -1,5 +1,5 @@
 ## Creative Agency - A Service Seller MERN Application 
-Visit [https://creative-agency-d9cfb.web.app/]Live Website
+Visit [https://creative-agency-d9cfb.web.app] Live Website
 
 ## Technology
 1. React
